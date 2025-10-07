@@ -39,7 +39,7 @@ int main() {
     int iteration = 0;
     
     printf("================================================================\n");
-    printf("METODE SEIDEL - Kombinasi g1A dan g2B (13 mod 4 = 1)\n");
+    printf("METODE SEIDEL - Kombinasi g1A dan g2B (NIMx = 1)\n");
     printf("================================================================\n");
     printf("Sistem Persamaan:\n");
     printf("f1(x,y) = x^2 + xy - 10 = 0\n");
